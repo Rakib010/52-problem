@@ -10,12 +10,12 @@ int main()
      if(ceil(squrot)==floor(squrot)) cout<<"yes";
      else cout<<"No";
     }
-
-    /*float sqrot,n1;
+// same problem 
+    float sqrot,n1;
     cin>>num;
     sqrot=sqrt(n1);
     if(sqrot*sqrot==n1) cout<<"yes";
-    else cout<<"No";*/
+    else cout<<"No";
 
 
 
